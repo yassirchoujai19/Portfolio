@@ -76,7 +76,7 @@ const AppShowcase = () => {
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img src="/images/project3.png" alt="YC Directory App" />
               </div>
-              <h2>YC Directory - A Startup Showcase App</h2>
+              <h2>The Image Processing Tool – Vue-Smart-Cropper-App</h2>
             </div>
           </div>
         </div>
